@@ -2,7 +2,7 @@ import {
     blackImg,
     blueImg,
     highlightFirstVideo,
-    highlightFourthVideo,
+    highlightFourthVideo,   
     highlightSecondVideo,
     highlightThirdVideo,
     whiteImg,
